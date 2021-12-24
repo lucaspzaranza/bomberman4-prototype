@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2f70eedfedb580341bced0f80961f604
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - grama: {fileID: 100000, guid: 60d45560dc2b09a4a8cb51d7f9db8f8c, type: 2}
+  - bloco_de_aco: {fileID: 100000, guid: 50d36132762be9f41a119e0970904e6a, type: 2}
+  - bloco_borda: {fileID: 100000, guid: 098298c76bf53354f92d5c02631642c0, type: 2}
+  - bloco_destrutivel: {fileID: 100000, guid: 17ddd477a6f07d444bdcecafab0c3b98, type: 2}
+  - mapeamento: {fileID: 100000, guid: df888d9c8cc8a844e8ae6755abdc1786, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

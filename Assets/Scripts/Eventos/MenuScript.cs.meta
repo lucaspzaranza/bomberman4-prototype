@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 0f88bdbf09509de42918a7198dd242b7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fonte: {fileID: 12800000, guid: 59f7f4b21e10d93408a2ffa6699fb617, type: 3}
+  - tabela_HUD: {fileID: 100000, guid: 7493924ef34e5b14abec813ab0ec2f85, type: 2}
+  - tabela_pontos: {fileID: 100000, guid: f0afa412d12f0634d9ea684e240dc2d4, type: 2}
+  - vidas: {fileID: 100000, guid: 31bcb966417d19f47985a4b2ebacc243, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

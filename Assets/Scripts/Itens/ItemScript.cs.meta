@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 8edf98a08d916114da28af5297f5664b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - caveira_item: {fileID: 100000, guid: 19ad8bed8fbbb1a4d9156d776c168063, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
